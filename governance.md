@@ -11,10 +11,8 @@ Data governance involved the following steps
 ## AssetHub task assembly
 We will execute the following AssetHub tasks in the below sequence to acheive the first steps in the data governance process.
 1) Import Cloud Pak for Data project with connection to data source.
-2) Setup "Metadata Import" process.
-3) Execute "Metadata Import" process, this brings in metadata about tables in the data source.
-4) Setup "Metadata Enrichment" process.
-5) Execute "Metadata Enrichment" process, this further enriches the metadata captured about the tables in the data source.
+2) Setup "Metadata Import" and execute "Metadata Import" process, this brings in metadata about tables in the data source.
+4) Setup "Metadata Enrichment" and execute "Metadata Enrichment" process, this further enriches the metadata captured about the tables in the data source.
 
 The following animated image provides a quick preview of what you’ll go through to import metadata from an external data source, enrich that data with auto-assigned business terms, view the enriched data, and publish the enriched data to a catalog.
 
