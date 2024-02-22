@@ -27,7 +27,6 @@ The use case can be invoked from the "Use Case" tab in AssetHub.
 <img width="1721" alt="DataGovernaneUseCaseExecution" src="https://github.com/drangar/usecases/assets/16958324/fad6bf9f-b747-46d6-8bbb-06577b7c7afb">
 
 ### Total elapsed time = 4 mins !
-<img src="https://github.com/drangar/usecases/assets/16958324/b53678b4-77bd-47b0-9748-acd5dbbdc79a" width="50%" height="50%"/>
 
 [![Download and Watch the video]](https://ibm.box.com/shared/static/cawvciqh5bfqr7eqykynu8vl1yyzuut4.mp4)([https://youtu.be/vt5fpE0bzSY](https://ibm.box.com/shared/static/cawvciqh5bfqr7eqykynu8vl1yyzuut4.mp4))
 
