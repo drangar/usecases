@@ -1,3 +1,6 @@
+# Goal
+To quickly setup and show the outcome/possibilities around Data Governance with our Data & AI platform. One would benefit from using the very intiutive User Interface we have that serves the different personas using the platform.
+
 # Establishing data governance
 Data Governance is a much talked about topic in every enterprise, yet there is some level of confusion of what governance means and more importantly where/how to get started. Data governance involves the following steps
 - Creating Project, a container for enterprise assets and a mechanism for collaboration.
